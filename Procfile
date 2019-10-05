@@ -1,1 +1,2 @@
-web: gunicorn notable_django.wsgi --log-file -
+web: gunicorn notabledjango.wsgi --log-file -
+
